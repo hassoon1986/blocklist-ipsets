@@ -1,0 +1,374 @@
+[
+	{
+		"code": "AF",
+		"value": 12032
+	},
+	{
+		"code": "AFRINIC",
+		"value": 2024192
+	},
+	{
+		"code": "ANYCAST",
+		"value": 275
+	},
+	{
+		"code": "AO",
+		"value": 18688
+	},
+	{
+		"code": "APNIC",
+		"value": 1996800
+	},
+	{
+		"code": "ARIN",
+		"value": 65792
+	},
+	{
+		"code": "AT",
+		"value": 72960
+	},
+	{
+		"code": "AU",
+		"value": 865282
+	},
+	{
+		"code": "BACKBONE",
+		"value": 512
+	},
+	{
+		"code": "BD",
+		"value": 29952
+	},
+	{
+		"code": "BE",
+		"value": 133377
+	},
+	{
+		"code": "BG",
+		"value": 3585
+	},
+	{
+		"code": "BR",
+		"value": 18434
+	},
+	{
+		"code": "BS",
+		"value": 2048
+	},
+	{
+		"code": "BZ",
+		"value": 512
+	},
+	{
+		"code": "CA",
+		"value": 314630
+	},
+	{
+		"code": "CH",
+		"value": 79363
+	},
+	{
+		"code": "CL",
+		"value": 132096
+	},
+	{
+		"code": "CN",
+		"value": 6564361
+	},
+	{
+		"code": "CO",
+		"value": 1024
+	},
+	{
+		"code": "CR",
+		"value": 16896
+	},
+	{
+		"code": "CZ",
+		"value": 5639
+	},
+	{
+		"code": "DE",
+		"value": 224375
+	},
+	{
+		"code": "DK",
+		"value": 8200
+	},
+	{
+		"code": "EE",
+		"value": 12544
+	},
+	{
+		"code": "ES",
+		"value": 39686
+	},
+	{
+		"code": "ET",
+		"value": 65536
+	},
+	{
+		"code": "EU",
+		"value": 73728
+	},
+	{
+		"code": "FI",
+		"value": 205057
+	},
+	{
+		"code": "FJ",
+		"value": 256
+	},
+	{
+		"code": "FR",
+		"value": 229391
+	},
+	{
+		"code": "GB",
+		"value": 715784
+	},
+	{
+		"code": "GT",
+		"value": 512
+	},
+	{
+		"code": "HK",
+		"value": 593938
+	},
+	{
+		"code": "HN",
+		"value": 13824
+	},
+	{
+		"code": "HR",
+		"value": 1
+	},
+	{
+		"code": "HU",
+		"value": 131586
+	},
+	{
+		"code": "ID",
+		"value": 37120
+	},
+	{
+		"code": "IE",
+		"value": 772
+	},
+	{
+		"code": "IL",
+		"value": 7680
+	},
+	{
+		"code": "IN",
+		"value": 367616
+	},
+	{
+		"code": "IR",
+		"value": 11264
+	},
+	{
+		"code": "IT",
+		"value": 92685
+	},
+	{
+		"code": "JO",
+		"value": 16384
+	},
+	{
+		"code": "JP",
+		"value": 2211344
+	},
+	{
+		"code": "KH",
+		"value": 2560
+	},
+	{
+		"code": "KN",
+		"value": 6656
+	},
+	{
+		"code": "KR",
+		"value": 490243
+	},
+	{
+		"code": "LA",
+		"value": 256
+	},
+	{
+		"code": "LACNIC",
+		"value": 16384
+	},
+	{
+		"code": "LB",
+		"value": 256
+	},
+	{
+		"code": "LK",
+		"value": 1024
+	},
+	{
+		"code": "LT",
+		"value": 513
+	},
+	{
+		"code": "LU",
+		"value": 67073
+	},
+	{
+		"code": "LV",
+		"value": 14848
+	},
+	{
+		"code": "MD",
+		"value": 5120
+	},
+	{
+		"code": "MM",
+		"value": 4608
+	},
+	{
+		"code": "MN",
+		"value": 3328
+	},
+	{
+		"code": "MU",
+		"value": 131072
+	},
+	{
+		"code": "MX",
+		"value": 135680
+	},
+	{
+		"code": "MY",
+		"value": 87040
+	},
+	{
+		"code": "NC",
+		"value": 256
+	},
+	{
+		"code": "NG",
+		"value": 8960
+	},
+	{
+		"code": "NL",
+		"value": 545299
+	},
+	{
+		"code": "NO",
+		"value": 512
+	},
+	{
+		"code": "NP",
+		"value": 7424
+	},
+	{
+		"code": "NZ",
+		"value": 104960
+	},
+	{
+		"code": "PE",
+		"value": 2048
+	},
+	{
+		"code": "PG",
+		"value": 1024
+	},
+	{
+		"code": "PH",
+		"value": 25344
+	},
+	{
+		"code": "PK",
+		"value": 279296
+	},
+	{
+		"code": "PL",
+		"value": 7429
+	},
+	{
+		"code": "PT",
+		"value": 24576
+	},
+	{
+		"code": "RO",
+		"value": 66308
+	},
+	{
+		"code": "RU",
+		"value": 87048
+	},
+	{
+		"code": "SA",
+		"value": 16384
+	},
+	{
+		"code": "SC",
+		"value": 11008
+	},
+	{
+		"code": "SE",
+		"value": 86276
+	},
+	{
+		"code": "SG",
+		"value": 47107
+	},
+	{
+		"code": "SK",
+		"value": 1
+	},
+	{
+		"code": "SS",
+		"value": 256
+	},
+	{
+		"code": "TH",
+		"value": 86529
+	},
+	{
+		"code": "TL",
+		"value": 1024
+	},
+	{
+		"code": "TN",
+		"value": 65536
+	},
+	{
+		"code": "TR",
+		"value": 6657
+	},
+	{
+		"code": "TW",
+		"value": 20489
+	},
+	{
+		"code": "UA",
+		"value": 32257
+	},
+	{
+		"code": "UG",
+		"value": 2816
+	},
+	{
+		"code": "US",
+		"value": 5797783
+	},
+	{
+		"code": "VG",
+		"value": 1024
+	},
+	{
+		"code": "VN",
+		"value": 107520
+	},
+	{
+		"code": "VU",
+		"value": 512
+	},
+	{
+		"code": "ZA",
+		"value": 858369
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 57397093,
+		"common": 256
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 723113680,
+		"common": 512
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338113671,
+		"common": 256
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 57372142,
+		"common": 256
+	}
+]
